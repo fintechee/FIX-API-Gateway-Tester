@@ -2,3 +2,6 @@
 Fintechee supports the FIX API Gateway as an interface for accessing the Fintechee CRM.
 
 You can utilize our FIX API Gateway Tester to evaluate our FIX API Gateway. Please reach out to our support team (admin@fintechee.com) to request a demo FIX API account for testing purposes. While it's essentially free of charge, as it consumes our server resources, we require scheduling to prevent resource wastage. Once the FIX API account is returned, we will provide it to the next user in line.
+
+Please check this page to know more details about our FIX API specification.
+https://www.fintechee.com/features/fix-api-gateway/
